@@ -88,6 +88,12 @@ const config = {
             position: 'right',
             label: 'git',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'frontendSidebar',
+            position: 'right',
+            label: '前端',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'tutorialSidebar',
